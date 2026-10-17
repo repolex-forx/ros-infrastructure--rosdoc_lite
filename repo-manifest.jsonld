@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/ros-infrastructure/rosdoc_lite/commit/ddd083504c2559d2632fc1daa55796c7075528fa",
       "git:hexsha": "ddd083504c2559d2632fc1daa55796c7075528fa",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-17T23:27:38.629955+00:00"
     },
     {
       "@id": "https://repolex.ai/r/ros-infrastructure/rosdoc_lite/commit/8cc37cc5f2417bf8afa6fe54d06079f15128d32b",
